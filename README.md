@@ -11,3 +11,5 @@ Versões:
 • Expressão lambda declarada
 
 • Expressão lambda inline
+
+(https://docs.oracle.com/javase/10/docs/api/java/util/function/Predicate.html)
